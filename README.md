@@ -16,9 +16,7 @@ Ebene 2: Ein Kapitel hat
 
 \## Abschnitte
 
-, auch bezeichnet als Unterkapitel
-
-(z.B. „1.4. Zentrale Fragestellungen”).  
+– auch bezeichnet als Unterkapitel (z.B. „1.4. Zentrale Fragestellungen”).  
 
 Ebene 3: Ein Abschnitt setzt sich aus verschiedenen 
 
@@ -59,3 +57,35 @@ Soll das Wort „Abbildung” weggelassen werden, fügt man es in eckiger Klamme
 zu
 
     Schauen Sie sich Bild 1 an.
+
+## Fremdsprachige Ausdrücke ##
+
+### Orthografie ###
+
+Englische und andere fremdsprachige Ausdrücke werden kleingeschrieben („sentence case”) und zwischen doppelte deutsche Anführungszeichen gesetzt (bzw. innerhalb einfacher Anführungszeichen, wenn der Ausdruck innerhalb von Anführungszeichen vorkommt). Zum Beispiel:   
+
+    „structured literature review”  
+    „Ich bin ein Fan von ‚computer-assisted reporting‘”, sagte der Reporter. 
+
+Ausnahme 1: [Eigennamen](Eigennamen) kommen nicht in Anführungszeichen. Sie werden groß geschrieben und für gewöhnlich kursiv gesetzt:  
+
+* _American Psychological Associaton_  
+* Der _Guardian_ ist eine britische Zeitung. 
+
+Ausnahme 2: Fremdsprachige Ausdrücke werden wie deutschsprachige Ausdrücke verwendet, wenn sie auch im deutschsprachigen Raum gebräuchlich sind und es keine passable deutsche Übersetzung gibt: 
+
+    Crowdsourcing  
+    Leaks 
+    Hacker
+
+### Zitate aus fremdsprachigen Quellen ###
+
+Englischsprachige Zitate können im Original bleiben und auch direkt in einen deutschen Satz einfließen.
+ 
+Zitate aus anderen fremdsprachigen Quellen, die in ein Satzgefüge einfließen sollen, werden entsprechend der [Empfehlungen der American Sociological Association](http://blog.apastyle.org/apastyle/2014/11/lost-in-translation-citing-your-own-translations-in-apa-style.html) ins Deutsche übersetzt und formal wie Paraphrasen behandelt, also ohne Anführungszeichen beschrieben. In dieser Form kann auch mit englischen Ausdrücken verfahren werden. 
+
+## Eigennamen ##
+
+ForscherInnen werden gewöhnlicherweise nur mit Familienname erwähnt. Wenn ein ganzer [Abschnitt](Definitonen#abschnitten-auch-bezeichnet-als-unterkapitel) von einer Person handelt, dann soll bei der ersten Verwendung der Vorname verwendet werden. 
+
+Eigennamen bzw. Bezeichnungen von (Medien-)Unternehmen, Buchtiteln, Zeitschriftentiteln, Programmiersprachen etc. werden kursiv gesetzt.
