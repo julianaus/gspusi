@@ -1,6 +1,6 @@
 # thesis-style-guide
 
-
+Grundlage für sämtliche Gestaltungsentscheidungen sind die Vorgaben der „publication manual” der American Psychological Assocation ([2010](Literatur)). Gewisse Aspekte sind dort nicht oder nicht ausreichend geregelt. Deshalb werden sie im Folgenden (genauer) definiert. Darüber erfordert das gewählte Setup einige Besonderheiten, die auch im Folgenden beschrieben werden.  
 
 ## Definitionen
 
@@ -89,3 +89,7 @@ Zitate aus anderen fremdsprachigen Quellen, die in ein Satzgefüge einfließen s
 ForscherInnen werden gewöhnlicherweise nur mit Familienname erwähnt. Wenn ein ganzer [Abschnitt](Definitonen#abschnitten-auch-bezeichnet-als-unterkapitel) von einer Person handelt, dann soll bei der ersten Verwendung der Vorname verwendet werden. 
 
 Eigennamen bzw. Bezeichnungen von (Medien-)Unternehmen, Buchtiteln, Zeitschriftentiteln, Programmiersprachen etc. werden kursiv gesetzt.
+
+## Literatur
+
+* American Psychological Association. (2010). Publication manual of the _American Psychological Association_ (6. Aufl.). Washington, DC: American Psychological Association.
