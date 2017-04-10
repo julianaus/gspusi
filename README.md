@@ -1,6 +1,6 @@
 # thesis-style-guide
 
-Grundlage für sämtliche Gestaltungsentscheidungen sind die Vorgaben der „publication manual” der American Psychological Assocation ([2010](Literatur)). Gewisse Aspekte sind dort nicht oder nicht ausreichend geregelt. Deshalb werden sie im Folgenden (genauer) definiert. Darüber erfordert das gewählte Setup einige Besonderheiten, die auch im Folgenden beschrieben werden.  
+Grundlage für sämtliche Gestaltungsentscheidungen sind die Vorgaben der „publication manual” der American Psychological Assocation ([2010](#literatur)). Gewisse Aspekte sind dort nicht oder nicht ausreichend geregelt. Deshalb werden sie im Folgenden (genauer) definiert. Darüber erfordert das gewählte Setup einige Besonderheiten, die auch im Folgenden beschrieben werden.  
 
 ## Definitionen
 
