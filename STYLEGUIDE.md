@@ -106,7 +106,7 @@ Folgende Maßnahmen sind dabei möglich (entnommen und adaptiert von Matiasek, A
 
 Aber: Aus Gründen der Lesbarkeit kein Binnen-I bei Komposita. 
 
-    ✅ Journalistenkonferenz  
+    ✅ Journalistenkonferenz  
     ✖️ JournalistInnenkonferenz
 
 3. Kollektiv- und Funktionsbezeichnungen
