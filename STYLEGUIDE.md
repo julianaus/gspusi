@@ -58,6 +58,12 @@ zu
 
     Schauen Sie sich Bild 1 an.
 
+## Eigennamen ##
+
+ForscherInnen werden gewöhnlicherweise nur mit Familienname erwähnt. Wenn ein ganzer [Abschnitt](Definitonen#abschnitten-auch-bezeichnet-als-unterkapitel) von einer Person handelt, dann soll bei der ersten Verwendung der Vorname verwendet werden. 
+
+Eigennamen bzw. Bezeichnungen von (Medien-)Unternehmen, Buchtiteln, Zeitschriftentiteln, Programmiersprachen etc. werden kursiv gesetzt.
+
 ## Fremdsprachige Ausdrücke ##
 
 ### Orthografie ###
@@ -84,15 +90,39 @@ Englischsprachige Zitate können im Original bleiben und auch direkt in einen de
  
 Zitate aus anderen fremdsprachigen Quellen, die in ein Satzgefüge einfließen sollen, werden entsprechend der [Empfehlungen der American Sociological Association](http://blog.apastyle.org/apastyle/2014/11/lost-in-translation-citing-your-own-translations-in-apa-style.html) ins Deutsche übersetzt und formal wie Paraphrasen behandelt, also ohne Anführungszeichen beschrieben. In dieser Form kann auch mit englischen Ausdrücken verfahren werden. 
 
-## Eigennamen ##
+## Gendern ##
 
-ForscherInnen werden gewöhnlicherweise nur mit Familienname erwähnt. Wenn ein ganzer [Abschnitt](Definitonen#abschnitten-auch-bezeichnet-als-unterkapitel) von einer Person handelt, dann soll bei der ersten Verwendung der Vorname verwendet werden. 
+Die Arbeit wird gegendert. 
 
-Eigennamen bzw. Bezeichnungen von (Medien-)Unternehmen, Buchtiteln, Zeitschriftentiteln, Programmiersprachen etc. werden kursiv gesetzt.
+Folgende Maßnahmen sind dabei möglich (entnommen und adaptiert von Matiasek, Ausserhofer, & Goldgruber, [2015](#literatur)): 
+
+1. Geschlechtsneutrale Personenbezeichnung und Pluralform
+
+    ✅ die Person/die Personen, das Mitglied/die Mitglieder, Belegschaft, Studierende
+
+2. Binnen-I
+
+    ✅ ProfessorInnen, MitarbeiterInnen
+
+Aber: Aus Gründen der Lesbarkeit kein Binnen-I bei Komposita. 
+
+    ✅ Journalistenkonferenz  
+    ✖️ JournalistInnenkonferenz
+
+3. Kollektiv- und Funktionsbezeichnungen
+
+    ✅ die Geschäftsführung, das Projektteam
+
+4. Passiv
+
+    ✅ Die Tools wurden vom Projektteam gemeinsam entwickelt.  
+    ✖️ Die Mitglieder des Teams haben die Tools gemeinsam entwickelt.
 
 ## Literatur
 
 * American Psychological Association. (2010). Publication manual of the _American Psychological Association_ (6. Aufl.). Washington, DC: American Psychological Association.
+
+* Matiasek, S., Ausserhofer, J., & Goldgruber, E. (2015). [_Guidelines for gender-sensitive language_](http://www.validproject.at/wp-content/uploads/2015/06/151130_Guidelines-for-Gender-Sensitive-Language.pdf) (Deliverable Nr. 6.3). Graz: Visual Analytics in Data-driven Journalism (VALiD) project.
 
 ## Lizenz
 
