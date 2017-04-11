@@ -98,25 +98,29 @@ Folgende Maßnahmen sind dabei möglich (entnommen und adaptiert von Matiasek, A
 
 1. Geschlechtsneutrale Personenbezeichnung und Pluralform
 
-> ✅ die Person/die Personen, das Mitglied/die Mitglieder, Belegschaft, Studierende
+> ✅ die Person/die Personen, das Mitglied/die Mitglieder, Belegschaft, Studierende, etc.
 
 2. Binnen-I
 
-> ✅ ProfessorInnen, MitarbeiterInnen
+> ✅ ProfessorInnen, MitarbeiterInnen, etc.
 
 Aber: Aus Gründen der Lesbarkeit kein Binnen-I bei Komposita. 
 
-> ✖️ JournalistInnenkonferenz
-> ✅ Journalistenkonferenz  
+> ✖️ JournalistInnenkonferenz  
+> ✅ Journalistenkonferenz
+
+Bei Formulierungen im Singular werden beide Geschelchter genannt, das weibliche zuerst. Wörter wie z.B. vorangestellte Aritkel, bei denen sich kein Binnen-I integrieren, lässt werden durch eine Schrägstrich und ohne Leerzeichen getrennt. 
+
+> Kleinere Aufgaben werden allein von einer/einem RedakteurIn erledigt.
 
 3. Kollektiv- und Funktionsbezeichnungen
 
-> ✅ die Geschäftsführung, das Projektteam```
+> ✅ die Geschäftsführung, das Projektteam
 
 4. Passiv
 
-> ✖️ Die Mitglieder des Teams haben die Tools gemeinsam entwickelt.
-> ✅ Die Tools wurden vom Projektteam gemeinsam entwickelt.  
+> ✖️ Die Mitglieder des Teams haben die Tools gemeinsam entwickelt.  
+> ✅ Die Tools wurden vom Projektteam gemeinsam entwickelt.
 
 
 ## Literatur
