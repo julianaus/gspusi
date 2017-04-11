@@ -98,25 +98,26 @@ Folgende Maßnahmen sind dabei möglich (entnommen und adaptiert von Matiasek, A
 
 1. Geschlechtsneutrale Personenbezeichnung und Pluralform
 
-    ✅ die Person/die Personen, das Mitglied/die Mitglieder, Belegschaft, Studierende
+> ✅ die Person/die Personen, das Mitglied/die Mitglieder, Belegschaft, Studierende
 
 2. Binnen-I
 
-    ✅ ProfessorInnen, MitarbeiterInnen
+> ✅ ProfessorInnen, MitarbeiterInnen
 
 Aber: Aus Gründen der Lesbarkeit kein Binnen-I bei Komposita. 
 
-    ✅ Journalistenkonferenz  
-    ✖️ JournalistInnenkonferenz
+> ✖️ JournalistInnenkonferenz
+> ✅ Journalistenkonferenz  
 
 3. Kollektiv- und Funktionsbezeichnungen
 
-    ✅ die Geschäftsführung, das Projektteam
+> ✅ die Geschäftsführung, das Projektteam```
 
 4. Passiv
 
-    ✅ Die Tools wurden vom Projektteam gemeinsam entwickelt.  
-    ✖️ Die Mitglieder des Teams haben die Tools gemeinsam entwickelt.
+> ✖️ Die Mitglieder des Teams haben die Tools gemeinsam entwickelt.
+> ✅ Die Tools wurden vom Projektteam gemeinsam entwickelt.  
+
 
 ## Literatur
 
