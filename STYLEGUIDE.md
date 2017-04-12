@@ -1,32 +1,32 @@
-# Style Guide
+# Style Guide # 
 
 Grundlage für sämtliche Gestaltungsentscheidungen sind die Vorgaben der „publication manual” der *American Psychological Assocation* ([2010](#literatur)). Gewisse Aspekte sind dort nicht oder nicht ausreichend geregelt. Deshalb werden sie im Folgenden (genauer) definiert. Darüber erfordert das gewählte Setup einige Besonderheiten, die auch im Folgenden beschrieben werden.  
 
-## Definitionen
+## Definitionen # 
 
 Der Gesamttext wird bezeichnet als *Dissertation* oder *Doktorarbeit* oder einfach nur *Text* oder *Arbeit*. 
 
 Ebene 1: Der Text gliedert sich in einzelne …
 
-\# Kapitel 
+	# Kapitel # {#i}
 
-(z.B. „1. Einführung”, „7. Resümee”). 
+(z.B. „1. Einführung”, „7. Resümee”). Das `{#i}` ist ein so genannter [header identifier](http://pandoc.org/MANUAL.html#header-identifiers) in Pandoc. Für Kapitelüberschriften werden dafür kleingeschriebene römische Ziffern verwendet. Für alle übrigen Textelemente werden beliebige kurze Worte oder Abkürzungen verwendet, z.B. `{#ff}`.   
 
-Ebene 2: Ein Kapitel hat  
+Ebene 2: Ein Kapitel hat …
 
-\## Abschnitte
+	## Abschnitte ## {#foo}
 
 – auch bezeichnet als Unterkapitel (z.B. „1.4. Zentrale Fragestellungen”).  
 
-Ebene 3: Ein Abschnitt setzt sich aus verschiedenen 
+Ebene 3: Ein Abschnitt setzt sich aus verschiedenen …
 
-\### Unterabschnitten 
+	### Unterabschnitten ###
 
 zusammen. (z.B. „z.B. 1.4.2. Forschungsfragen”).  
 
-Ebene 4: Unterabschnitte bestehen aus 
+Ebene 4: Unterabschnitte bestehen aus…  
 
-\#### Textteilen
+	#### Textteilen ####
 
 und haben keine eigene Nummerierung mehr.  
 
