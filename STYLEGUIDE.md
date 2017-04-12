@@ -70,19 +70,21 @@ Eigennamen bzw. Bezeichnungen von (Medien-)Unternehmen, Buchtiteln, Zeitschrifte
 
 Englische und andere fremdsprachige Ausdrücke werden kleingeschrieben („sentence case”) und zwischen doppelte deutsche Anführungszeichen gesetzt (bzw. innerhalb einfacher Anführungszeichen, wenn der Ausdruck innerhalb von Anführungszeichen vorkommt). Zum Beispiel:   
 
-    „structured literature review”  
-    „Ich bin ein Fan von ‚computer-assisted reporting‘”, sagte der Reporter. 
+> * „structured literature review”  
+> * „Ich bin ein Fan von ‚computer-assisted reporting‘”, sagte der Reporter. 
 
-Ausnahme 1: [Eigennamen](Eigennamen) kommen nicht in Anführungszeichen. Sie werden groß geschrieben und für gewöhnlich kursiv gesetzt:  
+Ausnahme 1: [Eigennamen](Eigennamen) kommen nicht in Anführungszeichen. Sie werden groß geschrieben und für gewöhnlich kursiv gesetzt.  
 
 * _American Psychological Associaton_  
 * Der _Guardian_ ist eine britische Zeitung. 
 
-Ausnahme 2: Fremdsprachige Ausdrücke werden wie deutschsprachige Ausdrücke verwendet, wenn sie auch im deutschsprachigen Raum gebräuchlich sind und es keine passable deutsche Übersetzung gibt: 
+Das Handbuch der APA ([American Psychological Association, 2010](#literatur)) gibt darüber hinaus noch zahlreiche weitere Vorgaben, wann Wörter kursiv gesetzt werden müssen.     
 
-    Crowdsourcing  
-    Leaks 
-    Hacker
+Ausnahme 2: Fremdsprachige Ausdrücke werden wie deutschsprachige Ausdrücke verwendet, wenn sie auch im deutschsprachigen Raum gebräuchlich sind und es keine passable deutsche Übersetzung gibt. 
+
+> * Crowdsourcing  
+> * Leaks 
+> * Hacker
 
 ### Zitate aus fremdsprachigen Quellen ###
 
@@ -109,9 +111,11 @@ Aber: Aus Gründen der Lesbarkeit kein Binnen-I bei Komposita.
 > ✖️ JournalistInnenkonferenz  
 > ✅ Journalistenkonferenz
 
-Bei Formulierungen im Singular werden beide Geschelchter genannt, das weibliche zuerst. Wörter wie z.B. vorangestellte Aritkel, bei denen sich kein Binnen-I integrieren, lässt werden durch eine Schrägstrich und ohne Leerzeichen getrennt. 
+Bei Formulierungen im Singular werden beide Geschlechter genannt, das weibliche zuerst. Wörter, bei denen sich kein Binnen-I integrieren lässt (z.B. ein vorangestellter Artikel), werden durch einen Schrägstrich und ohne Leerzeichen getrennt. 
 
 > Kleinere Aufgaben werden allein von einer/einem RedakteurIn erledigt.
+
+Nicht gegendert wird in dieser Arbeit „Akteur” bzw. „Akteure”, weil diese Begriffe in dieser Arbeit als Fachausdrücke gebraucht werden und sich auf die Akteur-Netzwerk-Theorie beziehen sollen. 
 
 3. Kollektiv- und Funktionsbezeichnungen
 
