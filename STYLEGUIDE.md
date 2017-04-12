@@ -1,8 +1,8 @@
 # Style Guide # 
 
-Grundlage für sämtliche Gestaltungsentscheidungen sind die Vorgaben der „publication manual” der *American Psychological Assocation* ([2010](#literatur)). Gewisse Aspekte sind dort nicht oder nicht ausreichend geregelt. Deshalb werden sie im Folgenden (genauer) definiert. Darüber erfordert das gewählte Setup einige Besonderheiten, die auch im Folgenden beschrieben werden.  
+Grundlage für sämtliche Gestaltungsentscheidungen sind die Vorgaben der *Publication Manual* der *American Psychological Assocation* ([2010](#literatur)). Gewisse Aspekte sind dort nicht oder nicht ausreichend geregelt. Deshalb werden sie im Folgenden (genauer) definiert. Darüber erfordert das gewählte Setup einige Besonderheiten, die auch im Folgenden beschrieben werden.  
 
-## Definitionen # 
+## Definitionen ## 
 
 Der Gesamttext wird bezeichnet als *Dissertation* oder *Doktorarbeit* oder einfach nur *Text* oder *Arbeit*. 
 
@@ -10,7 +10,7 @@ Ebene 1: Der Text gliedert sich in einzelne …
 
 	# Kapitel # {#i}
 
-(z.B. „1. Einführung”, „7. Resümee”). Das `{#i}` ist ein so genannter [header identifier](http://pandoc.org/MANUAL.html#header-identifiers) in Pandoc. Für Kapitelüberschriften werden dafür kleingeschriebene römische Ziffern verwendet. Für alle übrigen Textelemente werden beliebige kurze Worte oder Abkürzungen verwendet, z.B. `{#ff}`.   
+(z.B. „1. Einführung”, „7. Resümee”). Das `{#i}` ist ein so genannter „[header identifier](http://pandoc.org/MANUAL.html#header-identifiers)” in Pandoc. Für Kapitelüberschriften werden dafür kleingeschriebene römische Ziffern verwendet. Für alle übrigen Textelemente werden beliebige kurze Worte oder Abkürzungen verwendet, z.B. `{#ff}` für einen Abschnitt zu Forschungsfragen.   
 
 Ebene 2: Ein Kapitel hat …
 
@@ -20,19 +20,19 @@ Ebene 2: Ein Kapitel hat …
 
 Ebene 3: Ein Abschnitt setzt sich aus verschiedenen …
 
-	### Unterabschnitten ###
+	### Unterabschnitten ### {#bar}
 
 zusammen. (z.B. „z.B. 1.4.2. Forschungsfragen”).  
 
 Ebene 4: Unterabschnitte bestehen aus…  
 
-	#### Textteilen ####
+	#### Textteilen #### {#foobar}
 
 und haben keine eigene Nummerierung mehr.  
 
-## Abbildungen
+## Abbildungen ##
 
-### Einfügen von Abbildungen
+### Einfügen von Abbildungen ###
 
 Zur Einbindung von Abbildungen wird auf den pandoc-Filter [pandoc-crossref](https://github.com/lierdakil/pandoc-crossref) zurückgegriffen. Er ermöglicht die automatische Nummerierung von Abbildungen und anderen Elementen der Arbeit. Damit sowohl Abbildungstitel als auch Abbildungsbeschreibung angezeigt werden können, wird ein kleiner Trick angewendet: Es werden zwei Bilddateien eingefügt, die obere ist jedoch nur ein Bild in der Größe von 1x1px in weiß. Ein Beispiel:  
 
@@ -40,7 +40,7 @@ Zur Einbindung von Abbildungen wird auf den pandoc-Filter [pandoc-crossref](http
 
     ![Bildbeschreibung](/Users/ausse/Dropbox/__DISSERTATION/_Abbildungen/5/10_yolo.png)
 
-### Verweis im Text
+### Verweis im Text ###
 
 Der Verweis im Text passiert mittels des Ausdrucks `@fig:bildkurzbezeichnung`. Die Bildkurzbezeichnung wird immer kleingeschrieben. Das Wort „Abbildung” wird automatisch bei der Umwandlung von Markdown hinzugefügt. Beispiel für Verweise im Text: 
 	
@@ -123,12 +123,12 @@ Bei Formulierungen im Singular werden beide Geschelchter genannt, das weibliche 
 > ✅ Die Tools wurden vom Projektteam gemeinsam entwickelt.
 
 
-## Literatur
+## Literatur ##
 
 * American Psychological Association. (2010). Publication manual of the _American Psychological Association_ (6. Aufl.). Washington, DC: American Psychological Association.
 
 * Matiasek, S., Ausserhofer, J., & Goldgruber, E. (2015). [_Guidelines for gender-sensitive language_](http://www.validproject.at/wp-content/uploads/2015/06/151130_Guidelines-for-Gender-Sensitive-Language.pdf) (Deliverable Nr. 6.3). Graz: Visual Analytics in Data-driven Journalism (VALiD) project.
 
-## Lizenz
+## Lizenz ##
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons Lizenzvertrag" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">thesis-style-guide</span> von <a xmlns:cc="http://creativecommons.org/ns#" href="http://ausserhofer.net" property="cc:attributionName" rel="cc:attributionURL">Julian Ausserhofer</a> ist lizenziert unter einer <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung 4.0 International Lizenz</a>.
