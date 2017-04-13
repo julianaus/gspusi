@@ -85,6 +85,7 @@ Ausnahme 2: Fremdsprachige Ausdrücke werden wie deutschsprachige Ausdrücke ver
 > * Crowdsourcing  
 > * Leaks 
 > * Hacker
+> * Social Media
 
 ### Zitate aus fremdsprachigen Quellen ###
 
@@ -92,7 +93,7 @@ Englischsprachige Zitate können im Original bleiben und auch direkt in einen de
  
 Zitate aus anderen fremdsprachigen Quellen, die in ein Satzgefüge einfließen sollen, werden entsprechend der [Empfehlungen der American Sociological Association](http://blog.apastyle.org/apastyle/2014/11/lost-in-translation-citing-your-own-translations-in-apa-style.html) ins Deutsche übersetzt und formal wie Paraphrasen behandelt, also ohne Anführungszeichen beschrieben. In dieser Form kann auch mit englischen Ausdrücken verfahren werden. 
 
-## Gendern ##
+## Gendersensible Sprache ##
 
 Die Arbeit wird gegendert. 
 
@@ -126,6 +127,10 @@ Nicht gegendert wird in dieser Arbeit „Akteur” bzw. „Akteure”, weil dies
 > ✖️ Die Mitglieder des Teams haben die Tools gemeinsam entwickelt.  
 > ✅ Die Tools wurden vom Projektteam gemeinsam entwickelt.
 
+
+## Fachausdrücke ## 
+
+* „soziale Medien” („sozial” wird kleingeschrieben)
 
 ## Literatur ##
 
