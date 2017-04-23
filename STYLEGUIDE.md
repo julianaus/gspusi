@@ -83,8 +83,10 @@ Das Handbuch der APA ([American Psychological Association, 2010](#literatur)) gi
 Ausnahme 2: Fremdsprachige Ausdrücke werden wie deutschsprachige Ausdrücke verwendet, wenn sie auch im deutschsprachigen Raum gebräuchlich sind und es keine passable deutsche Übersetzung gibt. 
 
 > * Crowdsourcing  
-> * Leaks 
 > * Hacker
+> * Leaks 
+> * Open Source
+> * Open Science
 > * Social Media
 
 ### Zitate aus fremdsprachigen Quellen ###
