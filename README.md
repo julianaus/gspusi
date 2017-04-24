@@ -1,4 +1,4 @@
-# Willkommen bei PUSG, dem PUblication StyleGuide
+# Willkommen bei pusg, dem PUblication StyleGuide
 
 Diese Sammlung von Anleitungen erleichtert das Schreiben von wissenschaftlichen Abschlussarbeiten und anderen Forschungspublikationen. 
 
