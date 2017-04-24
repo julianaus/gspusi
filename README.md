@@ -1,6 +1,6 @@
-# DISG 
+# PUSG … PUblication StyleGuide 
 
-DISG steht für „Dissertation Styleguide”. Diese Sammlung von Anleitungen erleichtert das Schreiben einer Dissertation und anderer Forschungspublikationen oder wissenschaftlicher Abschlussarbeiten. 
+PUSG steht für „Publication Styleguide”. Diese Sammlung von Anleitungen erleichtert das Schreiben einer Dissertation und anderer Forschungspublikationen oder wissenschaftlicher Abschlussarbeiten. 
 
 Wichtigstes Dokument: [Styleguide](STYLEGUIDE.MD)
 
