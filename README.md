@@ -1,6 +1,6 @@
-# Willkommen bei pusg, dem PUblication StyleGuide
+# Willkommen bei gspusi
 
-Diese Sammlung von Anleitungen erleichtert das Schreiben von wissenschaftlichen Abschlussarbeiten und anderen Forschungspublikationen. 
+Das Wort „Gspusi” kommt aus dem Österreichischen und bedeutet umgangssprachlich [Liebschaft](https://de.wikipedia.org/wiki/Gspusi). Hier steht die Abkürzung für **Great Scientific Publcation Style and Information**. Es handelt sich um eine Sammlung von Anleitungen, die das Schreiben von wissenschaftlichen Abschlussarbeiten und anderen Forschungspublikationen. 
 
 Wichtigstes Dokument: [Styleguide](STYLEGUIDE.md)
 
