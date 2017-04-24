@@ -1,4 +1,4 @@
-# Style Guide # 
+# Styleguide # 
 
 Grundlage für sämtliche Gestaltungsentscheidungen sind die Vorgaben der *Publication Manual* der *American Psychological Assocation* ([2010](#literatur)). Gewisse Aspekte sind dort nicht oder nicht ausreichend geregelt. Deshalb werden sie im Folgenden (genauer) definiert. Darüber erfordert das gewählte Setup einige Besonderheiten, die auch im Folgenden beschrieben werden.  
 
