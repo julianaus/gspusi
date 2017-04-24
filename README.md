@@ -1,6 +1,6 @@
 # Willkommen bei gspusi
 
-Das Wort „Gspusi” kommt aus dem Österreichischen und bedeutet umgangssprachlich [Liebschaft](https://de.wikipedia.org/wiki/Gspusi). Hier steht die Abkürzung für **Great Scientific Publcation Style and Information**. Dieses Repository bietet eine Sammlung von Anleitungen, die das Schreiben von wissenschaftlichen Abschlussarbeiten und anderen Forschungspublikationen erleichtern. 
+Das Wort „Gspusi” kommt aus dem Österreichischen und bedeutet umgangssprachlich [Liebschaft](https://de.wikipedia.org/wiki/Gspusi). Hier steht die Abkürzung für **Great Scientific Publication Style and Information**. Dieses Repository bietet eine Sammlung von Anleitungen, die das Schreiben von wissenschaftlichen Abschlussarbeiten und anderen Forschungspublikationen erleichtern. 
 
 Wichtigstes Dokument: [Styleguide](STYLEGUIDE.md)
 
